@@ -21,5 +21,5 @@
     ![alt text](../main/Deliverable3_Result.png)
     
  ## Summary
- - The results was only 72.5% and did not reach the target of 75%. Conclusion: the model is not outperforming.
+ - The results was only 72.5% and did not reach the target of 75%, even though Changing the number of neurons in the hidden layer or changing the activation function, the results was no improve. Conclusion: the model is not outperforming.
  - In order to increase the accuracy of model, we need to have more data. 
