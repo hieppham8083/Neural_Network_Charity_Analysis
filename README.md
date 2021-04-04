@@ -9,7 +9,7 @@
   - Scale the data. Refer to image below:
      ![alt text](../main/Deliverable1Scaler.png) 
 - Compile, Train, and Evaluate the Model (Deliverable 2):
-  - There are two hidden layers with 80 and 30 neurons. Also one output layer. Two hidden layers have an activation function "relu" & the output layer has "sigmoid".
+  - Two hidden layers("relu" activation function) with 80 and 30 neurons, also one output layer ("sigmoid"  activation function)
     ![alt text](../main/Deliverable2_Complie.png) 
 - Was the model able to achieve the target model performance?
   - The target for the model was to be 75% or above, The result was not able to reach the target.
